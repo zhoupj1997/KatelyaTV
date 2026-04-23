@@ -1,4 +1,7 @@
 {
+  "env": {
+    "PASSWORD": "zpj12345"
+  },
   "headers": [
     {
       "source": "/fonts/inter-var-latin.woff2",
